@@ -14,7 +14,7 @@
   <br />
   <div align="center">
     <a href="https://github.com/lexi-scott/big-girl-portfolio">
-      <img src="src/images/logo.png" alt="Logo" width="200" height="200">
+      <img src="src/images/logo.jpg" alt="Logo" width="200" height="200">
     </a>
     <h3 align="center">My React Portfolio</h3>
     <p align="center">
@@ -27,7 +27,7 @@ This portfolio application was built using React and is designed to showcase my 
       <a href="https://github.com/mdyeates/my-portfolio"><strong>Explore the docs »</strong></a>
       <br/>
       <br/>
-      <a">View Live Website</a>
+      <a href="add link here dummy">View Live Website</a>
  
   </div>
   
@@ -146,9 +146,9 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
   
 ## Questions
 
-If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:michael-yeates@outlook.com">michael-yeates@outlook.com</a>
+If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:lexiscott0101@gmail.com">lexiscott0101@gmail.com</a>
 
-<a href="https://www.linkedin.com/in/mdyeates/">LinkedIn</a> | <a href="https://github.com/mdyeates/">GitHub</a>
+<a href="https://www.linkedin.com/in/lexi-scott-04a50423//">LinkedIn</a> | <a href="https://github.com/lexi-scott">GitHub</a>
 
 Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdyeates/my-portfolio)
 
