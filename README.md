@@ -14,12 +14,12 @@
   <br />
   <div align="center">
     <a href="https://github.com/lexi-scott/big-girl-portfolio">
-      <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
+      <img src="src/images/logo.png" alt="Logo" width="200" height="200">
     </a>
     <h3 align="center">My React Portfolio</h3>
     <p align="center">
     <br/>
-This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. <br/>
+This portfolio application was built using React and is designed to showcase my projects. It features a dynamic and visually appealing layout. The repo was cloned from https://github.com/mdyeates/my-portfolio <br/>
       <br/>
       Built by: Michael Yaetes and customized by Lexi Scott
       <br/>
@@ -27,12 +27,8 @@ This portfolio application was built using React and is designed to showcase my 
       <a href="https://github.com/mdyeates/my-portfolio"><strong>Explore the docs »</strong></a>
       <br/>
       <br/>
-      <a href="https://michaelyeates.co.uk">View Live Website</a>
-      ·
-      <a href="https://github.com/mdyeates/my-portfolio/issues">Report Bug</a>
-      ·
-      <a href="https://github.com/mdyeates/my-portfolio/issues">Request Feature</a>
-    </p>
+      <a">View Live Website</a>
+ 
   </div>
   
   <!-- TABLE OF CONTENTS -->
