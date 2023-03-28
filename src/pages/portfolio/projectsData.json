@@ -1,0 +1,63 @@
+[
+  {
+    "title": "PMS Success",
+    "image": "./projectImages/pms.png",
+    "description": "I made this pms tracking web application from scratch. From bootstrap, CSS, Javscript, Node, Sequelize, Handlebars, SQL. I designed it for myself to help me track my moods based on my cycle. It is a project I continue to work on and have many future development ideas.",
+    "technologies": "SQL | Handlebars | Javascript",
+    "github": "https://github.com/lexi-scott/pms-success",
+    "deployed": "https://pacific-tundra-79298.herokuapp.com/",
+    "bgcolor": "#dcb62d",
+    "id": "1"
+  },
+  {
+    "title": "HERD.",
+    "image": "./projectImages/herd.png",
+    "technologies": "SQL | Bootstrap | Group Project",
+    "description": " This was a group project and the concept was my idea. It is a cattle tracking website that allows a user to input cattle information and it it tied to a ranch. I was responsible for overall vision, database development, Cattle input page, cattle search feature and the cattle models.",
+    "github": "https://github.com/lexi-scott/herd",
+    "deployed": "https://cattle-tracker.herokuapp.com/",
+    "bgcolor": "#bb4d48",
+    "id": "2"
+  },
+  {
+    "title": "Social Network API",
+    "image": "./projectImages/social-media.png",
+    "technologies": "MongoDB | Node | Insomnia | Express.js",
+    "description": "I built an API for a social network web application where users can share thoughts, react to friends' thoughts and create a friend list.",
+    "github": "https://github.com/lexi-scott/Social-Network-API",
+    "deployed": "https://github.com/lexi-scott/Social-Network-API",
+    "bgcolor": "#9f7b92",
+    "id": "3"
+  },
+  {
+    "title": "E-Commerce Back-end",
+    "image": "./projectImages/commerce.png",
+    "technologies": "ORM | SQL | Express.js",
+    "description": "I built the back-end for an e-commerce site. I worked with an Express.js API and configured it to Sequelize to interact with a MySQL database.",
+    "github": "https://github.com/lexi-scott/e-commerce-back-end",
+    "deployed": "https://github.com/lexi-scott/e-commerce-back-end",
+    "bgcolor": "#78762d",
+    "id": "4"
+  },
+
+  {
+    "title": "Napster 2.0 + Videos",
+    "image": "./projectImages/napster.png",
+    "description": "A web application that allows a user to search for playlists via the Napster API, then play YouTube videos of the songs. I was responsible for the idea, CSS and helping build the connection to the Napster API",
+    "technologies": "API | HTML | CSS",
+    "github": "https://github.com/lexi-scott/Napster2.0-with-Youtube",
+    "deployed": "https://jaugsbu2.github.io/napster2.0-with-youtube/",
+    "bgcolor": "#a8a752",
+    "id": "5"
+  },
+
+  {
+    "title": "Daily Planner",
+    "image": "./projectImages/planner.png",
+    "technologies": "JS | Bootstrap | Moment",
+    "description": "Make every hour count with this simple Daily Planner App. You can keep track of all important appointments during a normal 9-5 work day!",
+    "github": "https://github.com/lexi-scott/Daily-Planner",
+    "bgcolor": "#a8527e",
+    "id": "6"
+  }
+]
