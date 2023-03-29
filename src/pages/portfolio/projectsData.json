@@ -54,7 +54,7 @@
   {
     "title": "Daily Planner",
     "image": "./projectImages/planner.png",
-    "technologies": "JS | Bootstrap | Moment",
+    "technologies": "JS | Bootstrap | JQuery",
     "description": "Make every hour count with this simple Daily Planner App. You can keep track of all important appointments during a normal 9-5 work day!",
     "github": "https://github.com/lexi-scott/Daily-Planner",
     "bgcolor": "#a8527e",
