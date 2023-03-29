@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lexi-scott-portfolio/static/css/main.1d9152ac.css",
-    "main.js": "/lexi-scott-portfolio/static/js/main.6c1b09fc.js",
+    "main.js": "/lexi-scott-portfolio/static/js/main.cc132ca8.js",
     "static/media/me.jpg": "/lexi-scott-portfolio/static/media/me.d71f8e92a19687af030d.jpg",
     "static/media/lexiUda.jpg": "/lexi-scott-portfolio/static/media/lexiUda.58fcbabf780a88b2e3bf.jpg",
     "static/media/Rubik-Regular.ttf": "/lexi-scott-portfolio/static/media/Rubik-Regular.42535d1e2d489e27b525.ttf",
@@ -11,10 +11,10 @@
     "static/media/close.svg": "/lexi-scott-portfolio/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
     "static/media/open.svg": "/lexi-scott-portfolio/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
     "main.1d9152ac.css.map": "/lexi-scott-portfolio/static/css/main.1d9152ac.css.map",
-    "main.6c1b09fc.js.map": "/lexi-scott-portfolio/static/js/main.6c1b09fc.js.map"
+    "main.cc132ca8.js.map": "/lexi-scott-portfolio/static/js/main.cc132ca8.js.map"
   },
   "entrypoints": [
     "static/css/main.1d9152ac.css",
-    "static/js/main.6c1b09fc.js"
+    "static/js/main.cc132ca8.js"
   ]
 }
