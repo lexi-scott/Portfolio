@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.738eccb5.css",
-    "main.js": "/portfolio/static/js/main.6a57a462.js",
-    "static/media/me.jpg": "/portfolio/static/media/me.d71f8e92a19687af030d.jpg",
-    "static/media/lexiUda.jpg": "/portfolio/static/media/lexiUda.58fcbabf780a88b2e3bf.jpg",
-    "static/media/Rubik-Regular.ttf": "/portfolio/static/media/Rubik-Regular.42535d1e2d489e27b525.ttf",
-    "static/media/Lexi-Scott.pdf": "/portfolio/static/media/Lexi-Scott.c7c678c87a692132558d.pdf",
-    "static/media/logo.jpg": "/portfolio/static/media/logo.5808d1f1639fe18e4b25.jpg",
-    "index.html": "/portfolio/index.html",
-    "static/media/close.svg": "/portfolio/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
-    "static/media/open.svg": "/portfolio/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
-    "main.738eccb5.css.map": "/portfolio/static/css/main.738eccb5.css.map",
-    "main.6a57a462.js.map": "/portfolio/static/js/main.6a57a462.js.map"
+    "main.css": "/lexi-scott-portfolio/static/css/main.1d9152ac.css",
+    "main.js": "/lexi-scott-portfolio/static/js/main.cc132ca8.js",
+    "static/media/me.jpg": "/lexi-scott-portfolio/static/media/me.d71f8e92a19687af030d.jpg",
+    "static/media/lexiUda.jpg": "/lexi-scott-portfolio/static/media/lexiUda.58fcbabf780a88b2e3bf.jpg",
+    "static/media/Rubik-Regular.ttf": "/lexi-scott-portfolio/static/media/Rubik-Regular.42535d1e2d489e27b525.ttf",
+    "static/media/Lexi-Scott.pdf": "/lexi-scott-portfolio/static/media/Lexi-Scott.c7c678c87a692132558d.pdf",
+    "static/media/logo.jpg": "/lexi-scott-portfolio/static/media/logo.5808d1f1639fe18e4b25.jpg",
+    "index.html": "/lexi-scott-portfolio/index.html",
+    "static/media/close.svg": "/lexi-scott-portfolio/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/lexi-scott-portfolio/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.1d9152ac.css.map": "/lexi-scott-portfolio/static/css/main.1d9152ac.css.map",
+    "main.cc132ca8.js.map": "/lexi-scott-portfolio/static/js/main.cc132ca8.js.map"
   },
   "entrypoints": [
-    "static/css/main.738eccb5.css",
-    "static/js/main.6a57a462.js"
+    "static/css/main.1d9152ac.css",
+    "static/js/main.cc132ca8.js"
   ]
 }
