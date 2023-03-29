@@ -1,7 +1,7 @@
 [
   {
     "title": "PMS Success",
-    "image": "./projectImages/pms.png",
+    "image": "./projectsImages/pms.png",
     "description": "I made this pms tracking web application from scratch. From bootstrap, CSS, Javscript, Node, Sequelize, Handlebars, SQL. I designed it for myself to help me track my moods based on my cycle. It is a project I continue to work on and have many future development ideas.",
     "technologies": "SQL | Handlebars | Javascript",
     "github": "https://github.com/lexi-scott/pms-success",
